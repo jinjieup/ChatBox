@@ -1,1 +1,12 @@
 # ChatBox
+
+need to set up these variable
+- CHAT_OPENAI_API_KEY=
+- CHAT_OPENAI_ACCESS_TOKEN=
+- CHAT_OPENAI_API_BASE_URL=https://api.openai.com/
+- CHAT_HTTP_PROXY_HOST=127.0.0.1
+- EMAIL_HOST=
+- EMAIL_PORT=
+- EMAIL_FROM=
+- EMAIL_USER=
+- EMAIL_PASS=
