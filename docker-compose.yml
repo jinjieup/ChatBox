@@ -108,5 +108,5 @@ services:
 
 networks:
   gpt_network:
-  admin_network:
-  user_network:
+  admin-network:
+  user-network:
